@@ -7,7 +7,7 @@ class Stack {
     T* _data;
     int _size, _top;
 public:
-    //Stack(int _size);
+    //Stack(int _size)
     void push(const T& val);
     void pop();
     inline T top() const;
