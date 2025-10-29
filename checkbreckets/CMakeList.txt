@@ -1,0 +1,2 @@
+create_project_lib(checkbreckets)
+add_depend(checkbreckets stack_lib)
